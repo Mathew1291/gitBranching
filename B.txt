@@ -3,3 +3,4 @@
 
 
 This is a new line written at branch A
+a change written in branch B
