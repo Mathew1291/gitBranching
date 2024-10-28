@@ -1,2 +1,5 @@
 // Matthias Haas 28.10.2024
 // File of the branch B
+
+
+This is a new line written at branch A
